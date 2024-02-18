@@ -9,3 +9,7 @@ function display() {
 function newFn() {
   console.log("Hey Imma new fn");
 }
+
+function newFeat() {
+  console.log("new feat added");
+}
